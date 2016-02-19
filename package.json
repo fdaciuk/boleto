@@ -1,7 +1,7 @@
 {
   "name": "boleto",
   "version": "0.1.1",
-  "description": "Generates new bar code, adding due date and value.",
+  "description": "Gera uma nova Linha Digitável, adicionando data de vencimento e valor.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
