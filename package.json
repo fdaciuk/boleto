@@ -1,6 +1,6 @@
 {
   "name": "boleto",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Gera uma nova Linha Digitável, adicionando data de vencimento e valor.",
   "main": "index.js",
   "scripts": {
