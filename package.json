@@ -19,6 +19,7 @@
     "url": "https://github.com/fdaciuk/boleto/issues"
   },
   "homepage": "https://github.com/fdaciuk/boleto#readme",
+  "bin": "index.js",
   "dependencies": {
     "inquirer": "^0.12.0"
   }
