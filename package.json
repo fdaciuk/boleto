@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/fdaciuk/boleto#readme",
   "dependencies": {
-    "inquirer": "^0.12.0",
-    "moment": "^2.11.2"
+    "inquirer": "^0.12.0"
   }
 }
