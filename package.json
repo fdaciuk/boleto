@@ -1,6 +1,6 @@
 {
   "name": "boleto",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generates new bar code, adding due date and value.",
   "main": "index.js",
   "scripts": {
