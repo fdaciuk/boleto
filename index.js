@@ -54,6 +54,5 @@ inquirer.prompt(questions, (answers) => {
         .replace(new RegExp(`0{${value.length}}$`), value);
     })
   ;
-  console.log(answers.digits.replace(/\D/g, ''));
-  console.log(newDigits);
+  console.log('Nova linha digitável:', newDigits);
 });
