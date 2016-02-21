@@ -18,6 +18,10 @@ Use por sua própria conta e risco.
 
 Digite `boleto` no console e siga as instruções. Será gerado uma nova **Linha Digitável**, com a data de vencimento e valor que você definir.
 
+## Versão Web
+
+https://rawgit.com/fdaciuk/boleto/master/index.html
+
 ## Licença
 
 [MIT License](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
