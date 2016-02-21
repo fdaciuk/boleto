@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Boleto</title>
+  <style>
+    body {
+      font: 14px Lato, sans-serif;
+    }
+
+    label {
+      display: block
+    }
+
+    div {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Boleto</h1>
+
+  <div>
+    <label>Linha Digitável:</label>
+    <input type="text" data-js="digits">
+  </div>
+
+  <div>
+    <label>Valor do documento: (R$)</label>
+    <input type="text" data-js="value" placeholder="100,20">
+  </div>
+
+  <div>
+    <label>Data de vencimento: (10/10/2015)</label>
+    <input type="text" data-js="date" placeholder="10/10/2015">
+  </div>
+
+  <button data-js="generate">Gerar nova linha digitável</button>
+
+  <script src="lib/boleto.js"></script>
+  <script src="public/js/main.js"></script>
+</body>
+</html>
