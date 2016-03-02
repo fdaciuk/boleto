@@ -27,5 +27,8 @@
   "devDependencies": {
     "snazzy": "^3.0.0",
     "standard": "^6.0.7"
+  },
+  "standard": {
+    "globals": ["define"]
   }
 }
