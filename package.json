@@ -4,6 +4,7 @@
   "description": "Gera uma nova Linha Digitável, adicionando data de vencimento e valor.",
   "main": "index.js",
   "scripts": {
+    "lint": "standard --verbose | snazzy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,9 @@
   "bin": "index.js",
   "dependencies": {
     "inquirer": "^0.12.0"
+  },
+  "devDependencies": {
+    "snazzy": "^3.0.0",
+    "standard": "^6.0.7"
   }
 }
