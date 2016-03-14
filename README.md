@@ -11,7 +11,7 @@ Use por sua própria conta e risco.
 ## Instalação
 
 ```console
-[sudo] npm i -g boleto
+[sudo] npm install -g boleto
 ```
 
 ## Como usar
