@@ -22,6 +22,10 @@ Digite `boleto` no console e siga as instruções. Será gerado uma nova **Linha
 
 https://rawgit.com/fdaciuk/boleto/master/index.html
 
+## Bancos testados
+
+- Santander
+
 ## Licença
 
 [MIT License](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
