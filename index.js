@@ -33,6 +33,6 @@ const questions = [
   }
 ]
 
-inquirer.prompt(questions, (answers) => {
+inquirer.prompt(questions, (answers) => (
   console.log('Nova linha digitável:', boleto(answers))
-})
+))
