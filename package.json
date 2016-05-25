@@ -7,7 +7,6 @@
     "lint": "standard --verbose | snazzy",
     "test": "echo \"\:)\" && exit 1",
     "postversion": "git push origin dev && git checkout master && git merge dev && git push origin master --tags && npm publish && git checkout dev"
-
   },
   "repository": {
     "type": "git",
